@@ -1,0 +1,38 @@
+﻿body  {
+	background-color:#ccc;
+	margin: 0;
+	padding: 0;
+}
+
+#Page{
+	position: relative;
+	width:900px;
+	margin: 0 auto;
+	border-style:solid;
+	background-color:#eee;
+}
+
+#Header{
+	border-style:solid;
+	height:100px;
+}
+
+#Menu{
+	position:sticky;
+	top:0px;
+	border-style:solid;
+	background-color:#DDD;
+}
+
+#Content{
+	border-style:solid;
+	padding-bottom: 1000px;
+}
+
+#Footer{
+	border-style:solid;
+	width: 900px;
+	background-color:#DDD;
+	position:fixed;
+	bottom:0px;
+}
